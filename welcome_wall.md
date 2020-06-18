@@ -200,6 +200,3 @@ May Your Heart be Fearless, Mind Fierce and Spirit Free.
 <br>
 Hello, world!
 <br>
-<br>
-Great!
-<br>
